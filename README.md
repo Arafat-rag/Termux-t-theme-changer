@@ -58,7 +58,7 @@ T-load is a bash based script which modifies and changes your terminal from bori
 * ` git clone https://github.com/Arafat-rag/Termux-t-theme-changer
 * `cd $HOME`
 * `ls`
-* `cd T-LOAD`
+* `cd Termux-t-theme-changer`
 * `ls`
 * `bash t-load.sh`
 ```
