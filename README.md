@@ -4,10 +4,12 @@
 ## ABOUT TOOL :
 
 T-load is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
-please support and find me for next project ***upi*** 8961209855@axl
 
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
-</p>
+              please support and find me for next project 
+                   
+                                ***upi*** 8961209855@axl
+
+
 
 ## AVAILABLE ON :
 
