@@ -55,7 +55,7 @@ T-load is a bash based script which modifies and changes your terminal from bori
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/noob-hackers/T-LOAD`
+* ` git clone https://github.com/Arafat-rag/Termux-t-theme-changer
 * `cd $HOME`
 * `ls`
 * `cd T-LOAD`
@@ -108,7 +108,7 @@ __TYPE NAME__ :
 ## BUY ME A COFFEE :
 
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+<a href="https://rebrand.ly/BuyCoffee"><img title="Arafat-rag" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
 </p>
 
 ## WARNING : 
